@@ -1,3 +1,13 @@
+html {
+  box-sizing: border-box;
+  font-family: 'ItalianPlate';
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
 .App {
   font-family: sans-serif;
   text-align: center;
