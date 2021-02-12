@@ -22,8 +22,8 @@ export default function App() {
   return (
     <div className="App">
       <form>
-        <TextInput label="Username" />
-        <TextInput label="Password" type="password" />
+        <TextInput label="First name" />
+        <TextInput label="Last name" />
       </form>
     </div>
   );
